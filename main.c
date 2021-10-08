@@ -6,5 +6,7 @@ int main(void)
 
 	printf("myBranch1\n");
 
+	printf("myBranch2\n");
+
 	return 0;
 }
