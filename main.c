@@ -8,5 +8,7 @@ int main(void)
 
 	printf("myBranch2\n");
 
+	printf("myBranch3\n");
+
 	return 0;
 }
